@@ -7,6 +7,8 @@ theme: minima
 
 sass:
   style: compressed
+  load_paths:
+    - assets/_sass
 
 header_pages:
   - README.md
@@ -24,5 +26,4 @@ kramdown:
   input: GFM
 
 include:
-  - assets/css
-  - _sass
+  - assets
