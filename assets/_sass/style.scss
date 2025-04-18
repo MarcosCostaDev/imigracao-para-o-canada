@@ -5,18 +5,8 @@ $secondary-color: #ffffff;
 $text-color: #111;
 
 body {
-    font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: $text-color;
     background-color: $secondary-color;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-feature-settings: "kern" 1;
-    -moz-font-feature-settings: "kern" 1;
-    -o-font-feature-settings: "kern" 1;
-    font-feature-settings: "kern" 1;
-    font-kerning: normal;
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
 }
 
 a {
@@ -36,25 +26,17 @@ a {
 blockquote {
     color: $primary-dark-color;
     border-left: 4px solid $primary-color;
-    padding-left: 15px;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
 }
 
 pre,
 code {
-    font-size: 15px;
     border: 1px solid $primary-color;
-    border-radius: 3px;
     background-color: $primary-light-color;
 }
 
 .site-header {
     border-top: 5px solid $primary-dark-color;
     border-bottom: 1px solid $primary-color;
-    min-height: 55.95px;
-    position: relative;
 }
 
 .site-title {

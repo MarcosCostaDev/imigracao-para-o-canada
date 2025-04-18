@@ -6,8 +6,9 @@ url: "https://ti-no-canada.github.io/imigracao-para-o-canada"
 theme: minima
 
 sass:
-  style: expanded
-  sass_dir: ./assets/_sass
+  style: compressed
+  load_paths:
+    - assets/_sass
 
 header_pages:
   - ./README.md
