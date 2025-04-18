@@ -12,27 +12,29 @@ sass:
 header_pages:
   - README.md
   - estudo/visao-geral.md
-    - estudo/equivalencia-de-diploma.md
-    - estudo/idiomas/ingles.md
-    - estudo/idiomas/frances.md
+  - estudo/equivalencia-de-diploma.md
+  - estudo/idiomas/ingles.md
+  - estudo/idiomas/frances.md
   - grupo/regras-do-grupo.md
-    - grupo/glossario.md
+  - grupo/glossario.md
   - trabalho/work-permit.md
-    - trabalho/trabalho-remoto.md
-    - trabalho/sites-de-emprego.md
-    - trabalho/feiras-empregos.md
+  - trabalho/trabalho-remoto.md
+  - trabalho/sites-de-emprego.md
+  - trabalho/feiras-empregos.md
   - vida/visao-geral.md
-    - vida/tipos-de-vistos.md
-    - vida/traducao-juramentada.md
-    - vida/dicas-de-inverno.md
-    - vida/ontario/toronto-gta.md
-    - vida/ontario/ottawa.md
-    - vida/ontario/niagara-falls.md
+  - vida/tipos-de-vistos.md
+  - vida/traducao-juramentada.md
+  - vida/dicas-de-inverno.md
+  - vida/ontario/toronto-gta.md
+  - vida/ontario/ottawa.md
+  - vida/ontario/niagara-falls.md
 
 
-social_links:
-  telegram: "https://t.me/tinocanada"
-  github: "https://github.com/ti-no-canada"
+social:
+  name: Ti no Canadá
+  links:
+    - https://t.me/tinocanada
+    - https://github.com/ti-no-canada
 
 plugins:
   - jekyll-feed
