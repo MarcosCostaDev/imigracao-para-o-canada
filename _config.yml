@@ -1,5 +1,4 @@
-title: "TI no Canadá"
-description: "Um grupo no telegram sobre tecnologia e imigração para o Canadá"
+description: "Um grupo no telegram sobre tecnologia, imigração para o Canadá, com encontros e análises de currículo"
 baseurl: "/imigracao-para-o-canada/"
 url: "https://ti-no-canada.github.io/imigracao-para-o-canada"
 
@@ -28,7 +27,6 @@ header_pages:
   - vida/ontario/toronto-gta.md
   - vida/ontario/ottawa.md
   - vida/ontario/niagara-falls.md
-
 
 social:
   name: Ti no Canadá
