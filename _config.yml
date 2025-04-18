@@ -6,15 +6,15 @@ url: "https://ti-no-canada.github.io/imigracao-para-o-canada"
 theme: minima
 
 sass:
-  style: compressed
-  sass_dir: assets/_sass
+  style: expanded
+  sass_dir: ./assets/_sass
 
 header_pages:
-  - README.md
-  - estudo/idiomas/visao-geral.md
-  - grupo/regras-do-grupo.md
-  - trabalho/work-permit.md
-  - trabalho/estudo-e-trabalho.md
+  - ./README.md
+  - ./estudo/idiomas/visao-geral.md
+  - ./grupo/regras-do-grupo.md
+  - ./trabalho/work-permit.md
+  - ./trabalho/estudo-e-trabalho.md
 
 social_links:
   telegram: "https://t.me/tinocanada"
