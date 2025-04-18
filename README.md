@@ -4,7 +4,7 @@ Repositório do grupo no Telegram **TI no Canadá**.
 
 [![Grupo oficial no Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Grupo%20Oficial)](https://t.me/tinocanada)
 [![Repositório Oficial](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Repositório%20Oficial)](https://github.com/ti-no-canada)
-[![Regras](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Regras)](./Geral/grupo/regras-do-grupo.md)  
+[![Regras](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Regras)](./grupo/regras-do-grupo)  
 
 ---
 [![Discussões gerais](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Discussões)](https://t.me/tinocanada/1)
@@ -14,16 +14,16 @@ Repositório do grupo no Telegram **TI no Canadá**.
 
 ---
 
-Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/glossario.md) para entender palavras ou siglas desconhecidas.
+Consulte nosso [Glossário](./grupo/glossario) para entender palavras ou siglas desconhecidas.
 
 # Informações sobre imigração
 
-- [Informações sobre visto](https://github.com/ti-no-canada/Geral/blob/master/informacoes-gerais-sobre-visto.md)
-- [Como conseguir uma permissão de trabalho no Canadá (Work Permit)](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canad%C3%A1/work-permit.md)
-- [Feiras de Emprego](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md)
-- [Equivalência de diploma no Canadá](https://github.com/ti-no-canada/Geral/blob/master/equivalencia-de-diploma.md)
-- [Tradução Juramentada](https://github.com/ti-no-canada/Geral/blob/master/traducao-juramentada.md)
-- Estudo de [Inglês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Ingles.md) / [Francês](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Idiomas/Frances.md)
+- [Informações sobre visto](./vida/tipos-de-vistos)
+- [Como conseguir uma permissão de trabalho no Canadá (Work Permit)](./trabalho/work-permit)
+- [Feiras de Emprego](./trabalho/feiras-emprego)
+- [Equivalência de diploma no Canadá](./estudo/equivalencia-de-diploma)
+- [Tradução Juramentada](./vida/traducao-juramentada)
+- Estudo de [Inglês](./estudo/idiomas/ingles) / [Francês](./estudo/idiomas/frances)
 - [Mapa Mental sobre imigração para o Canadá (em construção)](https://app.mindmapmaker.org/#m:mm1317040e39d442459abc6bbfc9189fff)
 
 # Custo de vida
@@ -46,7 +46,7 @@ Consulte nosso [Glossário](https://github.com/ti-no-canada/imigracao-para-o-can
 
 #### CanPR _(Aplicativo de terceiros)_
 
-Informações sobre imigração e processos como o [Express Entry](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/informacoes-gerais-sobre-visto.md#o-que-é-express-entry).
+Informações sobre imigração e processos como o [Express Entry](./vida/tipos-de-vistos#o-que-é-express-entry).
 
 - [Android](https://play.google.com/store/apps/details?id=maaz.canpr.myapplication&hl=en_CA)
 - [iOS](https://apps.apple.com/ca/app/canpr/id1447024170)
@@ -67,10 +67,10 @@ Economize tempo na chegada ao Canadá com declarações eletrônicas.
 
 # Mercado de TI no Canadá
 
-- [Sites de empregos no Canadá](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/sites-de-emprego.md)
-- [Feiras de emprego](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/feiras-emprego.md)
-- [Trabalho remoto](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canadá/trabalho-remoto.md)
-- [Dicas para entrevistas e currículos](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/Trabalhar%20no%20Canad%C3%A1/Entrevistas-de-emprego.md)
+- [Sites de empregos no Canadá](./trabalho/sites-de-emprego)
+- [Feiras de emprego](./trabalho/feiras-emprego)
+- [Trabalho remoto](./trabalho/trabalho-remoto)
+- [Dicas para entrevistas e currículos](./trabalho/entrevistas-de-emprego)
 
 # Províncias e territórios do Canadá
 
@@ -90,7 +90,7 @@ Este repositório é uma visão geral e pode não estar totalmente atualizado. C
 
 O objetivo é ajudar brasileiros (ou falantes de português) com informações sobre o Canadá. Pesquise constantemente e compartilhe suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**.
 
-**Lembre-se de [ler as regras](https://github.com/ti-no-canada/imigracao-para-o-canada/blob/master/regras-do-grupo.md) e manter o respeito e a educação com todos.**
+**Lembre-se de [ler as regras](./grupo/regras-do-grupo) e manter o respeito e a educação com todos.**
 
 # Agradecimentos
 
