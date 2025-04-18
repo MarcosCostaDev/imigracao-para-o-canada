@@ -7,8 +7,7 @@ theme: minima
 
 sass:
   style: compressed
-  load_paths:
-    - assets/_sass
+  sass_dir: assets/_sass
 
 header_pages:
   - README.md
@@ -38,6 +37,7 @@ social_links:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sass-converter
 
 markdown: kramdown
 kramdown:

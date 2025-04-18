@@ -86,11 +86,15 @@ Cada província e território possui características únicas. Consulte os links
 
 # Nota Importante
 
-Este repositório é uma visão geral e pode não estar totalmente atualizado. Consulte sempre os sites oficiais do governo para informações precisas.
+Este repositório fornece informações gerais e pode não estar totalmente atualizado com os sites oficiais do governo. Use-o como uma visão geral e sempre consulte as informações mais recentes nos sites oficiais.
 
-O objetivo é ajudar brasileiros (ou falantes de português) com informações sobre o Canadá. Pesquise constantemente e compartilhe suas dúvidas no grupo do Telegram **[TI no Canadá](https://t.me/tinocanada)**.
+O objetivo é ajudar brasileiros (ou falantes de português) interessados no Canadá.
 
-**Lembre-se de [ler as regras](./grupo/regras-do-grupo) e manter o respeito e a educação com todos.**
+**O PRIMEIRO E MAIS IMPORTANTE PASSO** para imigrar para o Canadá é **PESQUISAR** todas as possibilidades para o **seu perfil**. Sem pesquisa constante, **você pode perder oportunidades**.
+
+Participe do grupo no Telegram **[TI no Canadá](https://t.me/tinocanada)** para tirar dúvidas, trocar ideias e obter ajuda. **Leia as [regras do grupo](./grupo/regras-do-grupo)** e mantenha o respeito e a educação com todos.
+
+Consulte nosso [Glossário](./grupo/glossario) para dúvidas sobre siglas e termos.
 
 # Agradecimentos
 
