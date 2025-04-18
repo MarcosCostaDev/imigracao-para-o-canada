@@ -11,11 +11,25 @@ sass:
     - assets/_sass
 
 header_pages:
-  - ./README.md
-  - ./estudo/idiomas/visao-geral.md
-  - ./grupo/regras-do-grupo.md
-  - ./trabalho/work-permit.md
-  - ./trabalho/estudo-e-trabalho.md
+  - README.md
+  - estudo/visao-geral.md
+    - estudo/equivalencia-de-diploma.md
+    - estudo/idiomas/ingles.md
+    - estudo/idiomas/frances.md
+  - grupo/regras-do-grupo.md
+    - grupo/glossario.md
+  - trabalho/work-permit.md
+    - trabalho/trabalho-remoto.md
+    - trabalho/sites-de-emprego.md
+    - trabalho/feiras-empregos.md
+  - vida/visao-geral.md
+    - vida/tipos-de-vistos.md
+    - vida/traducao-juramentada.md
+    - vida/dicas-de-inverno.md
+    - vida/ontario/toronto-gta.md
+    - vida/ontario/ottawa.md
+    - vida/ontario/niagara-falls.md
+
 
 social_links:
   telegram: "https://t.me/tinocanada"
