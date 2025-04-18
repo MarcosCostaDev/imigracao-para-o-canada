@@ -11,6 +11,10 @@ sass:
 
 header_pages:
   - README.md
+  - estudo/idiomas/visao-geral.md
+  - grupo/regras-do-grupo.md
+  - trabalho/work-permit.md
+  - trabalho/estudo-e-trabalho.md
 
 social_links:
   telegram: "https://t.me/tinocanada"

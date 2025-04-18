@@ -4,7 +4,7 @@ Repositório do grupo no Telegram **TI no Canadá**.
 
 [![Grupo oficial no Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Grupo%20Oficial)](https://t.me/tinocanada)
 [![Repositório Oficial](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Repositório%20Oficial)](https://github.com/ti-no-canada)
-[![Regras](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Regras)](https://github.com/ti-no-canada/Geral/blob/master/grupo/regras-do-grupo.md)  
+[![Regras](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Regras)](./Geral/grupo/regras-do-grupo.md)  
 
 ---
 [![Discussões gerais](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Discussões)](https://t.me/tinocanada/1)
