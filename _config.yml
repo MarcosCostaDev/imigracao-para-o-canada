@@ -10,8 +10,6 @@ sass:
 
 header_pages:
   - README.md
-  - about.md
-  - contact.md
 
 social_links:
   telegram: "https://t.me/tinocanada"
