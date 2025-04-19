@@ -4,10 +4,6 @@ url: "https://ti-no-canada.github.io/imigracao-para-o-canada"
 
 theme: minima
 
-sass:
-  style: compressed
-  sass_dir: assets/_sass
-
 header_pages:
   - README.md
   - estudo/visao-geral.md
@@ -41,6 +37,3 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
-
-include:
-  - assets
