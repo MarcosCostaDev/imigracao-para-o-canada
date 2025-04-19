@@ -37,7 +37,6 @@ social:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sass-converter
 
 markdown: kramdown
 kramdown:
